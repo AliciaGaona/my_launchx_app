@@ -1,6 +1,7 @@
 # my_launchx_app
 Weekly Mission 3
 
+Aprendizajes:
 
 - Cómo crear un nuevo proyecto de js.
 
